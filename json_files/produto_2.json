@@ -1,0 +1,11 @@
+{
+    "id": 2,
+    "nome": "Mouse sem fio Logitech",
+    "categoria": "Periféricos",
+    "preco": 45.90,
+    "estoque": 80,
+    "fornecedor": {
+        "nome": "Logitech Brasil",
+        "cidade": "Campinas"
+    }
+}

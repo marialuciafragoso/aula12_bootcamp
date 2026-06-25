@@ -1,0 +1,11 @@
+{
+    "id": 1,
+    "nome": "Notebook Dell Inspiron",
+    "categoria": "Eletrônicos",
+    "preco": 3200.00,
+    "estoque": 15,
+    "fornecedor": {
+        "nome": "TechDistribuidora",
+        "cidade": "São Paulo"
+    }
+}

@@ -1,0 +1,6 @@
+id,cliente_id,produto,valor
+101,1,Notebook,3200.00
+102,2,Mouse,45.90
+103,1,Teclado,150.00
+104,3,Monitor,890.00
+105,4,Webcam,210.50
